@@ -35,3 +35,24 @@ body {
     width: 50%;
     margin: auto;
 }
+
+.donation {
+    text-align: center;
+}
+
+.donation-plan {
+    text-align: center;
+    padding-left: 20px;
+}
+
+.my-updates {
+    text-align: center;
+    background-color: yellowgreen;
+}
+
+.footer {
+    text-align: center;
+    font-size: small;
+    color: azure;
+    background-color: black;
+}
