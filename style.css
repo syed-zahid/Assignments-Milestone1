@@ -84,3 +84,56 @@ p#banner {
     color: azure;
     background-color: black;
 }
+
+
+.section-control {}
+
+h1 {
+    text-align: center;
+}
+
+.txt-align {
+    text-align: center;
+}
+
+.pad {
+    padding: 50px;
+    height: 300px;
+}
+
+#donate {
+    width: 80%;
+    margin: auto;
+    padding: 50px;
+}
+
+#options img {
+    height: 25px;
+    width: 25px;
+}
+
+#options {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+
+#family-food {
+    width: 30%;
+    margin: 1%;
+    background-color: aliceblue;
+}
+
+#shelter {
+    width: 30%;
+    margin: 1%;
+    background-color: pink;
+}
+
+#education {
+    width: 30%;
+    margin: 1%;
+    background-color: palegoldenrod;
+}
